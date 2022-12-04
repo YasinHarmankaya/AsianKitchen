@@ -7,7 +7,8 @@
 ## What did I add?
 
 -First of all localStorage added.
--New meal form added
+
+-New meal form added.
 
 ## What am I going to do?
 
